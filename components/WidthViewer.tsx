@@ -18,7 +18,18 @@ export default function WidthViewer() {
       <p>
         Repo:
         <a
-          href="https://github.com/codekcv/nextjs-appdir-response-issue"
+          href="https://github.com/codekcv/nextjs-appdir-responsiveness-issue"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          HERE
+        </a>
+      </p>
+
+      <p>
+        Issue:
+        <a
+          href="https://github.com/vercel/next.js/issues/41842"
           target="_blank"
           rel="noopener noreferrer"
         >
